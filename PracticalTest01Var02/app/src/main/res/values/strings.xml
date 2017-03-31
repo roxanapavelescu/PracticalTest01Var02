@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticalTest01Var02</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="fornext">Navigate To Secondary Activity</string>
+    <string name="corect">Corect</string>
+    <string name="incorect">Incorect</string>
+</resources>
